@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quản lý khách hàng - Bản xem</title>
+  <link rel="stylesheet" href="styles.css?v=20260526-gauge-fix">
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div>
+        <p>Bản dữ liệu tĩnh chỉ xem</p>
+        <h1>Quản lý khách hàng</h1>
+        <span id="generatedAt">Đang tải dữ liệu...</span>
+      </div>
+      <div class="top-actions">
+        <button id="historyButton" class="history-button" title="Lịch sử" aria-label="Lịch sử"><span class="clock-icon" aria-hidden="true"></span></button>
+        <input id="searchInput" type="search" placeholder="Tìm tên, SĐT, số thứ tự..." autocomplete="off">
+      </div>
+    </header>
+
+    <nav class="tabs" aria-label="Khu vực">
+      <button class="tab active" data-view="home">Home</button>
+      <button class="tab" data-view="tanKy">Tân kỳ</button>
+      <button class="tab" data-view="doLuong">Đô lương</button>
+      <button class="tab" data-view="tongHop">Tổng hợp</button>
+      <button class="tab" data-view="info">Thông tin</button>
+    </nav>
+
+    <section id="homeView" class="view active">
+      <section class="wide-card">
+        <div class="section-title">Tỷ lệ theo trạng thái</div>
+        <div id="gaugeGrid" class="gauge-grid"></div>
+      </section>
+
+      <section class="wide-card">
+        <div class="section-title">Thống kê nhanh</div>
+        <div class="summary-grid">
+          <article><span>Tổng khách hàng</span><strong id="statTotal">0</strong></article>
+          <article><span>Tân kỳ</span><strong id="statTanKy">0</strong></article>
+          <article><span>Đô lương</span><strong id="statDoLuong">0</strong></article>
+          <article><span>Tổng hợp</span><strong id="statTongHop">0</strong></article>
+          <article><span>Lịch sử xoá</span><strong id="statDeleted">0</strong></article>
+        </div>
+      </section>
+    </section>
+
+    <section id="listView" class="view">
+      <section class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>STT</th>
+              <th>Tên khách hàng</th>
+              <th>Số điện thoại</th>
+              <th>Địa chỉ</th>
+              <th>Nhóm</th>
+              <th>Trạng thái</th>
+              <th>Ghi chú</th>
+              <th>Cập nhật</th>
+            </tr>
+          </thead>
+          <tbody id="customerRows"></tbody>
+        </table>
+      </section>
+    </section>
+
+    <section id="infoView" class="view">
+      <section class="wide-card info-card">
+        <div class="section-title">Thông tin</div>
+        <p>Đây là bản GitHub Pages chỉ xem. Dữ liệu chính vẫn nằm trên máy chủ nội bộ; trang này chỉ hiển thị dữ liệu đã đồng bộ gần nhất.</p>
+        <div class="info-grid">
+          <article><span>Quyền truy cập</span><strong>Chỉ xem</strong></article>
+          <article><span>Nguồn dữ liệu</span><strong>CustomerManager trên máy chủ</strong></article>
+        </div>
+      </section>
+    </section>
+
+    <section id="historyView" class="view">
+      <section class="wide-card history-note">
+        <div class="section-title">Lịch sử</div>
+        <strong id="historyDeleted">0</strong>
+        <p>Khách hàng đã xoá không được xuất chi tiết lên GitHub Pages. Dữ liệu lịch sử đầy đủ chỉ xem trong app nội bộ trên máy chủ.</p>
+      </section>
+    </section>
+  </main>
+  <script src="app.js?v=20260526-gauge-fix"></script>
+</body>
+</html>
