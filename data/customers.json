@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-19T08:54:56.9503514+07:00",
+  "generatedAt": "2026-06-27T08:35:09.9294547+07:00",
   "stats": {
-    "total": 27,
-    "tanKy": 21,
-    "doLuong": 3,
+    "total": 32,
+    "tanKy": 25,
+    "doLuong": 4,
     "tongHop": 3,
-    "deleted": 5,
+    "deleted": 0,
     "statuses": {
-      "hoanThanh": 2,
+      "hoanThanh": 11,
       "lenPhuongAn": 14,
-      "dangXay": 1,
-      "sanXuat": 9,
+      "dangXay": 2,
+      "sanXuat": 4,
       "huyDon": 1
     }
   },
@@ -33,7 +33,7 @@
       "area": "TanKy",
       "status": "LenPhuongAn",
       "note": "Bếp, 3 P_Ngủ",
-      "updatedAt": "2026-06-13T10:33:38.7307418+07:00"
+      "updatedAt": "2026-06-27T07:52:37.858326+07:00"
     },
     {
       "code": "3",
@@ -61,9 +61,9 @@
       "phone": "",
       "address": "Tân an",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Tủ đồ",
-      "updatedAt": "2026-06-13T10:33:13.935972+07:00"
+      "updatedAt": "2026-06-27T07:52:15.233195+07:00"
     },
     {
       "code": "6",
@@ -79,11 +79,11 @@
       "code": "7",
       "name": "Chị trang",
       "phone": "",
-      "address": "Thanh tân",
+      "address": "Kỳ sơn, sau nhà thầy dạy tiếng anh",
       "area": "TanKy",
       "status": "LenPhuongAn",
       "note": "Bếp, P Khách, 3 P ngủ",
-      "updatedAt": "2026-05-25T14:15:47.6970705+07:00"
+      "updatedAt": "2026-06-27T07:52:11.8699333+07:00"
     },
     {
       "code": "8",
@@ -121,9 +121,9 @@
       "phone": "",
       "address": "Khối 6",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Bếp, Tủ đồ x 3",
-      "updatedAt": "2026-05-27T09:05:40.5294109+07:00"
+      "updatedAt": "2026-06-27T07:51:27.5130664+07:00"
     },
     {
       "code": "12",
@@ -137,13 +137,13 @@
     },
     {
       "code": "13",
-      "name": "Chị thương",
+      "name": "Nhà nghĩa phúc",
       "phone": "",
       "address": "Nghĩa phúc",
       "area": "TanKy",
-      "status": "SanXuat",
-      "note": "Bếp, bàn làm việc, tủ đồ",
-      "updatedAt": "2026-06-13T10:31:52.3191396+07:00"
+      "status": "HoanThanh",
+      "note": "Chưa đo",
+      "updatedAt": "2026-06-27T07:51:51.0883507+07:00"
     },
     {
       "code": "14",
@@ -151,9 +151,9 @@
       "phone": "",
       "address": "Quỳ hậu",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Ốp tường, Bếp, Vách",
-      "updatedAt": "2026-05-27T09:06:39.4924754+07:00"
+      "updatedAt": "2026-06-27T07:51:24.5602047+07:00"
     },
     {
       "code": "15",
@@ -163,7 +163,7 @@
       "area": "TanKy",
       "status": "HoanThanh",
       "note": "Bếp",
-      "updatedAt": "2026-06-13T10:32:57.6166275+07:00"
+      "updatedAt": "2026-06-27T07:51:48.5203484+07:00"
     },
     {
       "code": "16",
@@ -171,9 +171,9 @@
       "phone": "",
       "address": "K7",
       "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "Công trình mới",
-      "updatedAt": "2026-06-13T10:32:29.4670532+07:00"
+      "status": "HoanThanh",
+      "note": "Ốp tường, tủ, kệ",
+      "updatedAt": "2026-06-27T07:51:41.2175008+07:00"
     },
     {
       "code": "17",
@@ -193,7 +193,7 @@
       "area": "TanKy",
       "status": "HoanThanh",
       "note": "Vách thờ, Bếp",
-      "updatedAt": "2026-06-13T10:32:48.320897+07:00"
+      "updatedAt": "2026-06-27T07:51:44.712668+07:00"
     },
     {
       "code": "19",
@@ -203,7 +203,27 @@
       "area": "DoLuong",
       "status": "SanXuat",
       "note": "Bếp, P ngủ",
-      "updatedAt": "2026-06-13T10:37:01.1903279+07:00"
+      "updatedAt": "2026-06-27T07:53:28.9545038+07:00"
+    },
+    {
+      "code": "20",
+      "name": "Bác sử trường",
+      "phone": "",
+      "address": "Đông sơn _ Sau chợ đình",
+      "area": "DoLuong",
+      "status": "LenPhuongAn",
+      "note": "Bếp, Vách",
+      "updatedAt": "2026-06-27T07:59:46.7350753+07:00"
+    },
+    {
+      "code": "21",
+      "name": "Tú liên - Em Hằng",
+      "phone": "",
+      "address": "Khối 6 - Gần nhà lộc",
+      "area": "TanKy",
+      "status": "DangXay",
+      "note": "Xây xong mới rõ làm chi",
+      "updatedAt": "2026-05-26T08:01:15.3476211+07:00"
     },
     {
       "code": "22",
@@ -211,9 +231,19 @@
       "phone": "",
       "address": "Khối 6",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Bếp - Vách",
-      "updatedAt": "2026-06-03T16:24:39.5379144+07:00"
+      "updatedAt": "2026-06-27T07:51:15.7045951+07:00"
+    },
+    {
+      "code": "23",
+      "name": "Bệnh viện An phát -Viện dưỡng lão",
+      "phone": "",
+      "address": "Khối 1",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Giường, vách, tủ",
+      "updatedAt": "2026-06-01T16:59:56.9149618+07:00"
     },
     {
       "code": "24",
@@ -227,56 +257,26 @@
     },
     {
       "code": "25",
-      "name": "Nhà sang đo",
+      "name": "Chị Dung",
       "phone": "",
-      "address": "Nghĩa hợp",
+      "address": "Nghĩa phúc",
       "area": "TanKy",
-      "status": "SanXuat",
-      "note": "Tủ đồ",
-      "updatedAt": "2026-06-05T10:10:29.3187272+07:00"
+      "status": "HoanThanh",
+      "note": "Bếp",
+      "updatedAt": "2026-06-27T07:51:10.2754206+07:00"
     },
     {
       "code": "26",
-      "name": "Bệnh viện An phát",
+      "name": "Nhà nghĩa hợp - Sang đo",
       "phone": "",
-      "address": "",
+      "address": "Nghĩa hợp",
       "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "2 công trình",
-      "updatedAt": "2026-06-01T17:33:10.2537201+07:00"
+      "status": "HoanThanh",
+      "note": "Tủ đồ",
+      "updatedAt": "2026-06-27T07:51:05.0658801+07:00"
     },
     {
-      "code": "29",
-      "name": "Chị Oanh Dũng",
-      "phone": "",
-      "address": "*",
-      "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "Tủ cầu thang, Phòng ngủ",
-      "updatedAt": "2026-06-13T10:35:23.0147918+07:00"
-    },
-    {
-      "code": "30",
-      "name": "Anh tiệp",
-      "phone": "",
-      "address": "Cây xăng đường mòn - Kỳ tân",
-      "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "Bếp, P làm việc",
-      "updatedAt": "2026-06-13T10:36:50.774839+07:00"
-    },
-    {
-      "code": "31",
-      "name": "Bác Sử trường",
-      "phone": "",
-      "address": "Đông sơn",
-      "area": "DoLuong",
-      "status": "LenPhuongAn",
-      "note": "Bếp - Vách",
-      "updatedAt": "2026-06-18T09:35:45.3541933+07:00"
-    },
-    {
-      "code": "32",
+      "code": "27",
       "name": "Nhà mới giang sơn",
       "phone": "",
       "address": "Giang sơn",
@@ -284,6 +284,56 @@
       "status": "LenPhuongAn",
       "note": "3 ngủ, Bếp, Khách",
       "updatedAt": "2026-06-19T08:54:33.594871+07:00"
+    },
+    {
+      "code": "28",
+      "name": "Chị Hiền",
+      "phone": "038 4971545",
+      "address": "Rỏi",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": ".",
+      "updatedAt": "2026-06-27T07:53:17.7376254+07:00"
+    },
+    {
+      "code": "29",
+      "name": "Nhà giang sơn",
+      "phone": "",
+      "address": "Gần trường C1 giang sơn",
+      "area": "DoLuong",
+      "status": "LenPhuongAn",
+      "note": "P ngủ, Bếp , Khách",
+      "updatedAt": "2026-06-27T07:54:24.2308997+07:00"
+    },
+    {
+      "code": "30",
+      "name": "Chị thương",
+      "phone": "",
+      "address": "Nghĩa phúc",
+      "area": "TanKy",
+      "status": "HoanThanh",
+      "note": "Bếp",
+      "updatedAt": "2026-06-27T07:56:44.002522+07:00"
+    },
+    {
+      "code": "31",
+      "name": "Chị Oanh dũng",
+      "phone": "",
+      "address": "K7",
+      "area": "TanKy",
+      "status": "SanXuat",
+      "note": "Ốp tường, Vách tivi, tủ cầu thang, Giường, tủ đồ",
+      "updatedAt": "2026-06-27T07:57:50.8308912+07:00"
+    },
+    {
+      "code": "32",
+      "name": "Anh tiệp",
+      "phone": "",
+      "address": "Cây xăng đường mòn",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Bếp, Tủ sách",
+      "updatedAt": "2026-06-27T07:58:52.5376106+07:00"
     }
   ]
 }
