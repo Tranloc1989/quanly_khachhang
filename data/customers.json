@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T08:35:09.9294547+07:00",
+  "generatedAt": "2026-06-27T08:36:35.0530715+07:00",
   "stats": {
     "total": 32,
     "tanKy": 25,
@@ -7,10 +7,10 @@
     "tongHop": 3,
     "deleted": 0,
     "statuses": {
-      "hoanThanh": 11,
+      "hoanThanh": 12,
       "lenPhuongAn": 14,
       "dangXay": 2,
-      "sanXuat": 4,
+      "sanXuat": 3,
       "huyDon": 1
     }
   },
@@ -321,9 +321,9 @@
       "phone": "",
       "address": "K7",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Ốp tường, Vách tivi, tủ cầu thang, Giường, tủ đồ",
-      "updatedAt": "2026-06-27T07:57:50.8308912+07:00"
+      "updatedAt": "2026-06-27T08:36:14.3825624+07:00"
     },
     {
       "code": "32",
