@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-06T08:09:58.446473+07:00",
+  "generatedAt": "2026-07-06T08:11:02.0364597+07:00",
   "stats": {
-    "total": 33,
-    "tanKy": 28,
+    "total": 30,
+    "tanKy": 25,
     "doLuong": 3,
     "tongHop": 2,
-    "deleted": 4,
+    "deleted": 7,
     "statuses": {
       "hoanThanh": 10,
-      "lenPhuongAn": 20,
+      "lenPhuongAn": 17,
       "dangXay": 1,
       "sanXuat": 2,
       "huyDon": 0
@@ -126,16 +126,6 @@
       "updatedAt": "2026-07-02T09:58:59.373787+07:00"
     },
     {
-      "code": "13",
-      "name": "Chị minh thể",
-      "phone": "0983064607",
-      "address": "Hương sơn",
-      "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "Bếp - Vách ngăn tivi - vách thờ",
-      "updatedAt": "2026-07-02T09:58:59.373787+07:00"
-    },
-    {
       "code": "15",
       "name": "Anh Vinh",
       "phone": "",
@@ -147,16 +137,6 @@
     },
     {
       "code": "16",
-      "name": "Chị Thảo",
-      "phone": "",
-      "address": "Làng rào",
-      "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "3 tủ đồ, bàn TD, Bàn học, Bếp, Quầy bar, tủ rượu",
-      "updatedAt": "2026-07-02T10:00:50.8383709+07:00"
-    },
-    {
-      "code": "17",
       "name": "Chị Thảo",
       "phone": "",
       "address": "Làng rào",
@@ -187,16 +167,6 @@
     },
     {
       "code": "20",
-      "name": "Chị Khánh nguyễn",
-      "phone": "",
-      "address": "Làng mới quỳ hậu - Sát nhà đại oanh",
-      "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "Bếp",
-      "updatedAt": "2026-07-02T09:59:46.3885842+07:00"
-    },
-    {
-      "code": "21",
       "name": "Chị Khánh nguyễn",
       "phone": "",
       "address": "Làng mới quỳ hậu - Sát nhà đại oanh",
