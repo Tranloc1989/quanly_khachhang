@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-06T08:11:02.0364597+07:00",
+  "generatedAt": "2026-07-06T09:07:48.5707741+07:00",
   "stats": {
-    "total": 30,
-    "tanKy": 25,
+    "total": 31,
+    "tanKy": 26,
     "doLuong": 3,
     "tongHop": 2,
     "deleted": 7,
     "statuses": {
       "hoanThanh": 10,
-      "lenPhuongAn": 17,
+      "lenPhuongAn": 18,
       "dangXay": 1,
       "sanXuat": 2,
       "huyDon": 0
@@ -314,6 +314,16 @@
       "status": "LenPhuongAn",
       "note": "Tủ hồ sơ",
       "updatedAt": "2026-07-06T08:07:41.5401826+07:00"
+    },
+    {
+      "code": "38",
+      "name": "Anh lộc Tiến",
+      "phone": "",
+      "address": "Tân an",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Full",
+      "updatedAt": "2026-07-06T09:07:44.3032653+07:00"
     }
   ]
 }
