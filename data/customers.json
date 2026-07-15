@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-06T09:07:48.5707741+07:00",
+  "generatedAt": "2026-07-15T10:15:47.5105797+07:00",
   "stats": {
     "total": 31,
     "tanKy": 26,
     "doLuong": 3,
     "tongHop": 2,
-    "deleted": 7,
+    "deleted": 8,
     "statuses": {
-      "hoanThanh": 10,
-      "lenPhuongAn": 18,
+      "hoanThanh": 9,
+      "lenPhuongAn": 16,
       "dangXay": 1,
-      "sanXuat": 2,
+      "sanXuat": 5,
       "huyDon": 0
     }
   },
@@ -41,9 +41,9 @@
       "phone": "",
       "address": "Quỳ hậu",
       "area": "TanKy",
-      "status": "HoanThanh",
+      "status": "SanXuat",
       "note": "2 P ngủ, Phòng khách, Bếp đã làm",
-      "updatedAt": "2026-07-06T08:07:54.8903432+07:00"
+      "updatedAt": "2026-07-15T10:13:57.063385+07:00"
     },
     {
       "code": "4",
@@ -121,9 +121,9 @@
       "phone": "0983064607",
       "address": "Hương sơn",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Bếp - Vách ngăn tivi - vách thờ",
-      "updatedAt": "2026-07-02T09:58:59.373787+07:00"
+      "updatedAt": "2026-07-15T10:15:07.0458362+07:00"
     },
     {
       "code": "15",
@@ -141,9 +141,9 @@
       "phone": "",
       "address": "Làng rào",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "3 tủ đồ, bàn TD, Bàn học, Bếp, Quầy bar, tủ rượu",
-      "updatedAt": "2026-07-02T10:00:50.8383709+07:00"
+      "updatedAt": "2026-07-15T10:14:16.7752835+07:00"
     },
     {
       "code": "18",
@@ -171,9 +171,9 @@
       "phone": "",
       "address": "Làng mới quỳ hậu - Sát nhà đại oanh",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Bếp",
-      "updatedAt": "2026-07-02T09:59:46.3885842+07:00"
+      "updatedAt": "2026-07-15T10:14:50.8630953+07:00"
     },
     {
       "code": "22",
@@ -181,19 +181,9 @@
       "phone": "",
       "address": "Khối 1",
       "area": "TanKy",
-      "status": "HoanThanh",
+      "status": "LenPhuongAn",
       "note": "Giường, vách, tủ",
-      "updatedAt": "2026-07-02T09:59:52.8287828+07:00"
-    },
-    {
-      "code": "24",
-      "name": "Chị dung nguyễn",
-      "phone": "0964478303",
-      "address": "Nghĩa phuc",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Bếp",
-      "updatedAt": "2026-07-02T10:00:07.111346+07:00"
+      "updatedAt": "2026-07-15T10:14:43.9672794+07:00"
     },
     {
       "code": "25",
@@ -201,9 +191,9 @@
       "phone": "",
       "address": "Nghĩa phúc",
       "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Bếp",
-      "updatedAt": "2026-06-27T07:51:10.2754206+07:00"
+      "status": "LenPhuongAn",
+      "note": "Tủ đồ + Bàn trang điểm + Bàn học",
+      "updatedAt": "2026-07-15T10:13:23.4043088+07:00"
     },
     {
       "code": "26",
@@ -221,9 +211,9 @@
       "phone": "038 4971545",
       "address": "Rỏi",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": ".",
-      "updatedAt": "2026-07-06T08:09:01.5503279+07:00"
+      "updatedAt": "2026-07-15T10:13:41.8662155+07:00"
     },
     {
       "code": "28",
@@ -281,9 +271,9 @@
       "phone": "",
       "address": "Xã kỳ tân",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "HoanThanh",
       "note": "Tủ tivi",
-      "updatedAt": "2026-07-06T08:06:05.9324182+07:00"
+      "updatedAt": "2026-07-15T10:14:08.7911103+07:00"
     },
     {
       "code": "35",
@@ -311,9 +301,9 @@
       "phone": "",
       "address": "K6",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "HoanThanh",
       "note": "Tủ hồ sơ",
-      "updatedAt": "2026-07-06T08:07:41.5401826+07:00"
+      "updatedAt": "2026-07-15T10:14:02.1832793+07:00"
     },
     {
       "code": "38",
@@ -324,6 +314,16 @@
       "status": "LenPhuongAn",
       "note": "Full",
       "updatedAt": "2026-07-06T09:07:44.3032653+07:00"
+    },
+    {
+      "code": "39",
+      "name": "Hiền Định",
+      "phone": "0969980856",
+      "address": "Cây xăng cũ nghĩa phúc",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Tủ đồ phòng con",
+      "updatedAt": "2026-07-15T10:12:56.9917678+07:00"
     }
   ]
 }
