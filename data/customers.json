@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-15T10:15:47.5105797+07:00",
+  "generatedAt": "2026-07-18T13:58:23.8129549+07:00",
   "stats": {
-    "total": 31,
-    "tanKy": 26,
+    "total": 21,
+    "tanKy": 16,
     "doLuong": 3,
     "tongHop": 2,
-    "deleted": 8,
+    "deleted": 18,
     "statuses": {
-      "hoanThanh": 9,
-      "lenPhuongAn": 16,
-      "dangXay": 1,
-      "sanXuat": 5,
+      "hoanThanh": 1,
+      "lenPhuongAn": 13,
+      "dangXay": 3,
+      "sanXuat": 4,
       "huyDon": 0
     }
   },
@@ -56,24 +56,14 @@
       "updatedAt": "2026-05-25T14:13:46.8412775+07:00"
     },
     {
-      "code": "5",
-      "name": "Chị lam",
-      "phone": "",
-      "address": "Tân an",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Tủ đồ",
-      "updatedAt": "2026-06-27T07:52:15.233195+07:00"
-    },
-    {
       "code": "6",
       "name": "Chị Trang thanh",
       "phone": "",
       "address": "Vinh",
       "area": "TongHop",
-      "status": "LenPhuongAn",
+      "status": "DangXay",
       "note": "Full căn",
-      "updatedAt": "2026-05-25T14:14:58.471721+07:00"
+      "updatedAt": "2026-07-18T13:53:26.6205051+07:00"
     },
     {
       "code": "7",
@@ -91,9 +81,9 @@
       "phone": "",
       "address": "Nguyên đình",
       "area": "TongHop",
-      "status": "LenPhuongAn",
+      "status": "DangXay",
       "note": "",
-      "updatedAt": "2026-05-25T14:17:20.1820949+07:00"
+      "updatedAt": "2026-07-18T13:55:02.8545745+07:00"
     },
     {
       "code": "9",
@@ -106,16 +96,6 @@
       "updatedAt": "2026-07-06T08:08:16.0475533+07:00"
     },
     {
-      "code": "11",
-      "name": "Anh Lê huệ",
-      "phone": "",
-      "address": "Khối 6",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Bếp, Tủ đồ x 3",
-      "updatedAt": "2026-06-27T07:51:27.5130664+07:00"
-    },
-    {
       "code": "12",
       "name": "Chị minh thể",
       "phone": "0983064607",
@@ -124,16 +104,6 @@
       "status": "SanXuat",
       "note": "Bếp - Vách ngăn tivi - vách thờ",
       "updatedAt": "2026-07-15T10:15:07.0458362+07:00"
-    },
-    {
-      "code": "15",
-      "name": "Anh Vinh",
-      "phone": "",
-      "address": "Cầu trôi",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Bếp",
-      "updatedAt": "2026-06-27T07:51:48.5203484+07:00"
     },
     {
       "code": "16",
@@ -151,9 +121,9 @@
       "phone": "",
       "address": "Giang sơn",
       "area": "DoLuong",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Bếp, P ngủ",
-      "updatedAt": "2026-06-27T07:53:28.9545038+07:00"
+      "updatedAt": "2026-07-18T13:53:20.061785+07:00"
     },
     {
       "code": "19",
@@ -166,24 +136,14 @@
       "updatedAt": "2026-06-27T07:59:46.7350753+07:00"
     },
     {
-      "code": "20",
-      "name": "Chị Khánh nguyễn",
-      "phone": "",
-      "address": "Làng mới quỳ hậu - Sát nhà đại oanh",
-      "area": "TanKy",
-      "status": "SanXuat",
-      "note": "Bếp",
-      "updatedAt": "2026-07-15T10:14:50.8630953+07:00"
-    },
-    {
       "code": "22",
       "name": "Bệnh viện An phát -Viện dưỡng lão",
       "phone": "",
       "address": "Khối 1",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Giường, vách, tủ",
-      "updatedAt": "2026-07-15T10:14:43.9672794+07:00"
+      "updatedAt": "2026-07-18T13:55:19.8841808+07:00"
     },
     {
       "code": "25",
@@ -196,26 +156,6 @@
       "updatedAt": "2026-07-15T10:13:23.4043088+07:00"
     },
     {
-      "code": "26",
-      "name": "Nhà nghĩa hợp - Sang đo",
-      "phone": "",
-      "address": "Nghĩa hợp",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Tủ đồ",
-      "updatedAt": "2026-06-27T07:51:05.0658801+07:00"
-    },
-    {
-      "code": "27",
-      "name": "Chị Hiền",
-      "phone": "038 4971545",
-      "address": "Rỏi",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": ".",
-      "updatedAt": "2026-07-15T10:13:41.8662155+07:00"
-    },
-    {
       "code": "28",
       "name": "Nhà giang sơn",
       "phone": "",
@@ -223,27 +163,7 @@
       "area": "DoLuong",
       "status": "LenPhuongAn",
       "note": "P ngủ, Bếp , Khách",
-      "updatedAt": "2026-06-27T07:54:24.2308997+07:00"
-    },
-    {
-      "code": "29",
-      "name": "Chị thương",
-      "phone": "",
-      "address": "Nghĩa phúc",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Bếp",
-      "updatedAt": "2026-06-27T07:56:44.002522+07:00"
-    },
-    {
-      "code": "30",
-      "name": "Chị Oanh dũng",
-      "phone": "",
-      "address": "K7",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Ốp tường, Vách tivi, tủ cầu thang, Giường, tủ đồ",
-      "updatedAt": "2026-06-27T08:36:14.3825624+07:00"
+      "updatedAt": "2026-07-18T13:53:12.7449674+07:00"
     },
     {
       "code": "32",
@@ -266,16 +186,6 @@
       "updatedAt": "2026-07-06T08:04:57.4113003+07:00"
     },
     {
-      "code": "34",
-      "name": "Nhà tân đà",
-      "phone": "",
-      "address": "Xã kỳ tân",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Tủ tivi",
-      "updatedAt": "2026-07-15T10:14:08.7911103+07:00"
-    },
-    {
       "code": "35",
       "name": "Chị Nga",
       "phone": "",
@@ -294,16 +204,6 @@
       "status": "LenPhuongAn",
       "note": "Kệ tivi",
       "updatedAt": "2026-07-06T08:07:05.0996335+07:00"
-    },
-    {
-      "code": "37",
-      "name": "Quân béo",
-      "phone": "",
-      "address": "K6",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Tủ hồ sơ",
-      "updatedAt": "2026-07-15T10:14:02.1832793+07:00"
     },
     {
       "code": "38",
