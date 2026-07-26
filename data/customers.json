@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-18T13:58:23.8129549+07:00",
+  "generatedAt": "2026-07-26T16:26:32.6705544+07:00",
   "stats": {
-    "total": 21,
-    "tanKy": 16,
+    "total": 24,
+    "tanKy": 18,
     "doLuong": 3,
-    "tongHop": 2,
+    "tongHop": 3,
     "deleted": 18,
     "statuses": {
       "hoanThanh": 1,
-      "lenPhuongAn": 13,
+      "lenPhuongAn": 16,
       "dangXay": 3,
       "sanXuat": 4,
       "huyDon": 0
@@ -224,6 +224,36 @@
       "status": "LenPhuongAn",
       "note": "Tủ đồ phòng con",
       "updatedAt": "2026-07-15T10:12:56.9917678+07:00"
+    },
+    {
+      "code": "40",
+      "name": "Anh tiến",
+      "phone": "",
+      "address": "Nghĩa lộc - Nghĩa đàn",
+      "area": "TongHop",
+      "status": "LenPhuongAn",
+      "note": "Bếp - vách tivi",
+      "updatedAt": "2026-07-26T16:24:49.7340283+07:00"
+    },
+    {
+      "code": "41",
+      "name": "Bệnh viện An phát -Khoa sản",
+      "phone": "",
+      "address": "",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Vách - tủ quầy",
+      "updatedAt": "2026-07-26T16:25:34.04469+07:00"
+    },
+    {
+      "code": "42",
+      "name": "Thiết kế quán caffe đường mòn",
+      "phone": "",
+      "address": "đường mòn đối diện sạc sẽ vinf",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Thiết kế - TỦ quầy",
+      "updatedAt": "2026-07-26T16:26:18.433642+07:00"
     }
   ]
 }
