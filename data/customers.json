@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-19T16:34:48.0864508+07:00",
+  "generatedAt": "2026-09-19T16:37:40.9797474+07:00",
   "stats": {
-    "total": 23,
-    "tanKy": 16,
-    "doLuong": 4,
-    "tongHop": 3,
-    "deleted": 27,
+    "total": 20,
+    "tanKy": 15,
+    "doLuong": 3,
+    "tongHop": 2,
+    "deleted": 31,
     "statuses": {
-      "hoanThanh": 3,
-      "lenPhuongAn": 9,
+      "hoanThanh": 2,
+      "lenPhuongAn": 8,
       "dangXay": 6,
-      "sanXuat": 3,
-      "huyDon": 2
+      "sanXuat": 4,
+      "huyDon": 0
     }
   },
   "customers": [
@@ -81,19 +81,9 @@
       "phone": "",
       "address": "Làng rào",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "DangXay",
       "note": "3 tủ đồ, bàn TD, Bàn học, Bếp, Quầy bar, tủ rượu",
-      "updatedAt": "2026-07-15T10:14:16.7752835+07:00"
-    },
-    {
-      "code": "18",
-      "name": "Anh Linh",
-      "phone": "",
-      "address": "Giang sơn",
-      "area": "DoLuong",
-      "status": "HoanThanh",
-      "note": "Bếp, P ngủ",
-      "updatedAt": "2026-07-18T13:53:20.061785+07:00"
+      "updatedAt": "2026-09-19T16:36:01.1826027+07:00"
     },
     {
       "code": "19",
@@ -102,18 +92,8 @@
       "address": "Đông sơn _ Sau chợ đình",
       "area": "DoLuong",
       "status": "LenPhuongAn",
-      "note": "Bếp, Vách",
-      "updatedAt": "2026-06-27T07:59:46.7350753+07:00"
-    },
-    {
-      "code": "28",
-      "name": "Nhà giang sơn",
-      "phone": "",
-      "address": "Gần trường C1 giang sơn",
-      "area": "DoLuong",
-      "status": "HuyDon",
-      "note": "P ngủ, Bếp , Khách",
-      "updatedAt": "2026-08-29T16:58:54.8930616+07:00"
+      "note": "Phòng ngủ",
+      "updatedAt": "2026-09-19T16:36:59.0217356+07:00"
     },
     {
       "code": "32",
@@ -141,19 +121,9 @@
       "phone": "",
       "address": "Tân an",
       "area": "TanKy",
-      "status": "DangXay",
+      "status": "LenPhuongAn",
       "note": "Full",
-      "updatedAt": "2026-08-29T17:00:17.6209549+07:00"
-    },
-    {
-      "code": "40",
-      "name": "Anh tiến",
-      "phone": "",
-      "address": "Nghĩa lộc - Nghĩa đàn",
-      "area": "TongHop",
-      "status": "HuyDon",
-      "note": "Bếp - vách tivi",
-      "updatedAt": "2026-08-29T17:01:26.317201+07:00"
+      "updatedAt": "2026-09-19T16:35:36.6400775+07:00"
     },
     {
       "code": "42",
@@ -161,9 +131,9 @@
       "phone": "",
       "address": "đường mòn đối diện sạc sẽ vinf",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Thiết kế - TỦ quầy",
-      "updatedAt": "2026-07-26T16:26:18.433642+07:00"
+      "updatedAt": "2026-09-19T16:35:55.8615957+07:00"
     },
     {
       "code": "43",
@@ -211,9 +181,9 @@
       "phone": "",
       "address": "Cầu trôi",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Tủ quần áo Full",
-      "updatedAt": "2026-08-29T17:04:48.2744635+07:00"
+      "updatedAt": "2026-09-19T16:35:22.6461518+07:00"
     },
     {
       "code": "48",
@@ -236,14 +206,14 @@
       "updatedAt": "2026-08-29T17:07:25.3713686+07:00"
     },
     {
-      "code": "50",
-      "name": "CHị lam",
+      "code": "51",
+      "name": "Lâm",
       "phone": "",
-      "address": "Xóm hùng cường, nghĩa hành",
-      "area": "TanKy",
+      "address": "Hoà sơn",
+      "area": "DoLuong",
       "status": "LenPhuongAn",
-      "note": "Vách tivi, Vách ngăn",
-      "updatedAt": "2026-08-29T17:08:17.3142974+07:00"
+      "note": "Vách tivi",
+      "updatedAt": "2026-09-19T16:36:42.8145622+07:00"
     }
   ]
 }
