@@ -1,40 +1,20 @@
 {
-  "generatedAt": "2026-10-08T09:03:23.5140629+07:00",
+  "generatedAt": "2026-10-08T09:05:47.7462326+07:00",
   "stats": {
-    "total": 28,
-    "tanKy": 23,
-    "doLuong": 3,
+    "total": 21,
+    "tanKy": 17,
+    "doLuong": 2,
     "tongHop": 2,
-    "deleted": 31,
+    "deleted": 38,
     "statuses": {
-      "hoanThanh": 6,
-      "lenPhuongAn": 9,
+      "hoanThanh": 0,
+      "lenPhuongAn": 8,
       "dangXay": 5,
       "sanXuat": 8,
       "huyDon": 0
     }
   },
   "customers": [
-    {
-      "code": "1",
-      "name": "Gì tài",
-      "phone": "",
-      "address": "Khối 6",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Làm phòng ngủ con",
-      "updatedAt": "2026-08-29T16:58:44.1181221+07:00"
-    },
-    {
-      "code": "2",
-      "name": "Gì soa hiền",
-      "phone": "",
-      "address": "Tân đà",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Bếp, 3 P_Ngủ",
-      "updatedAt": "2026-10-08T08:53:55.2119797+07:00"
-    },
     {
       "code": "6",
       "name": "Chị Trang thanh",
@@ -66,16 +46,6 @@
       "updatedAt": "2026-08-29T17:05:39.7168432+07:00"
     },
     {
-      "code": "12",
-      "name": "Chị minh thể",
-      "phone": "0983064607",
-      "address": "Hương sơn",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Bếp - Vách ngăn tivi - vách thờ",
-      "updatedAt": "2026-08-29T16:57:42.8560709+07:00"
-    },
-    {
       "code": "16",
       "name": "Chị Thảo",
       "phone": "",
@@ -84,16 +54,6 @@
       "status": "SanXuat",
       "note": "3 tủ đồ, bàn TD, Bàn học, Bếp, Quầy bar, tủ rượu",
       "updatedAt": "2026-10-08T08:53:02.763062+07:00"
-    },
-    {
-      "code": "19",
-      "name": "Bác sử trường",
-      "phone": "",
-      "address": "Đông sơn _ Sau chợ đình",
-      "area": "DoLuong",
-      "status": "HoanThanh",
-      "note": "Phòng ngủ",
-      "updatedAt": "2026-10-08T09:02:15.7472435+07:00"
     },
     {
       "code": "32",
@@ -124,16 +84,6 @@
       "status": "LenPhuongAn",
       "note": "Full",
       "updatedAt": "2026-09-19T16:35:36.6400775+07:00"
-    },
-    {
-      "code": "42",
-      "name": "Thiết kế quán caffe đường mòn",
-      "phone": "",
-      "address": "đường mòn đối diện sạc sẽ vinf",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Thiết kế - TỦ quầy",
-      "updatedAt": "2026-10-08T08:53:07.3741731+07:00"
     },
     {
       "code": "43",
@@ -176,16 +126,6 @@
       "updatedAt": "2026-08-29T17:04:15.3469479+07:00"
     },
     {
-      "code": "47",
-      "name": "Chị Tuyết quý",
-      "phone": "",
-      "address": "Cầu trôi",
-      "area": "TanKy",
-      "status": "HoanThanh",
-      "note": "Tủ quần áo Full",
-      "updatedAt": "2026-10-08T08:53:13.1653947+07:00"
-    },
-    {
       "code": "48",
       "name": "Nhà công viên",
       "phone": "",
@@ -194,16 +134,6 @@
       "status": "SanXuat",
       "note": "Bếp, Tủ đồ",
       "updatedAt": "2026-08-29T17:06:47.6447302+07:00"
-    },
-    {
-      "code": "49",
-      "name": "Khách sạn Km 0",
-      "phone": "",
-      "address": "K 6",
-      "area": "TanKy",
-      "status": "LenPhuongAn",
-      "note": "Cải tạo phòng khách ngủ",
-      "updatedAt": "2026-08-29T17:07:25.3713686+07:00"
     },
     {
       "code": "51",
