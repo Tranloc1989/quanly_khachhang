@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-19T16:37:40.9797474+07:00",
+  "generatedAt": "2026-10-08T09:02:27.0280914+07:00",
   "stats": {
-    "total": 20,
-    "tanKy": 15,
+    "total": 28,
+    "tanKy": 23,
     "doLuong": 3,
     "tongHop": 2,
     "deleted": 31,
     "statuses": {
-      "hoanThanh": 2,
-      "lenPhuongAn": 8,
-      "dangXay": 6,
-      "sanXuat": 4,
+      "hoanThanh": 6,
+      "lenPhuongAn": 9,
+      "dangXay": 5,
+      "sanXuat": 8,
       "huyDon": 0
     }
   },
@@ -31,9 +31,9 @@
       "phone": "",
       "address": "Tân đà",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Bếp, 3 P_Ngủ",
-      "updatedAt": "2026-08-29T16:58:32.9089981+07:00"
+      "updatedAt": "2026-10-08T08:53:55.2119797+07:00"
     },
     {
       "code": "6",
@@ -81,9 +81,9 @@
       "phone": "",
       "address": "Làng rào",
       "area": "TanKy",
-      "status": "DangXay",
+      "status": "SanXuat",
       "note": "3 tủ đồ, bàn TD, Bàn học, Bếp, Quầy bar, tủ rượu",
-      "updatedAt": "2026-09-19T16:36:01.1826027+07:00"
+      "updatedAt": "2026-10-08T08:53:02.763062+07:00"
     },
     {
       "code": "19",
@@ -91,9 +91,9 @@
       "phone": "",
       "address": "Đông sơn _ Sau chợ đình",
       "area": "DoLuong",
-      "status": "LenPhuongAn",
+      "status": "HoanThanh",
       "note": "Phòng ngủ",
-      "updatedAt": "2026-09-19T16:36:59.0217356+07:00"
+      "updatedAt": "2026-10-08T09:02:15.7472435+07:00"
     },
     {
       "code": "32",
@@ -131,9 +131,9 @@
       "phone": "",
       "address": "đường mòn đối diện sạc sẽ vinf",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Thiết kế - TỦ quầy",
-      "updatedAt": "2026-09-19T16:35:55.8615957+07:00"
+      "updatedAt": "2026-10-08T08:53:07.3741731+07:00"
     },
     {
       "code": "43",
@@ -141,9 +141,9 @@
       "phone": "",
       "address": "Giang sơn",
       "area": "DoLuong",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Bếp, P_Khách , P ngủ con trai",
-      "updatedAt": "2026-08-29T17:01:08.1184526+07:00"
+      "updatedAt": "2026-10-08T09:02:09.9317366+07:00"
     },
     {
       "code": "44",
@@ -161,9 +161,9 @@
       "phone": "",
       "address": "Kỳ tân",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Bếp, P Khách, P ngủ, P thờ",
-      "updatedAt": "2026-08-29T17:03:38.8027582+07:00"
+      "updatedAt": "2026-10-08T08:53:43.1177204+07:00"
     },
     {
       "code": "46",
@@ -181,9 +181,9 @@
       "phone": "",
       "address": "Cầu trôi",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Tủ quần áo Full",
-      "updatedAt": "2026-09-19T16:35:22.6461518+07:00"
+      "updatedAt": "2026-10-08T08:53:13.1653947+07:00"
     },
     {
       "code": "48",
@@ -211,9 +211,89 @@
       "phone": "",
       "address": "Hoà sơn",
       "area": "DoLuong",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Vách tivi",
-      "updatedAt": "2026-09-19T16:36:42.8145622+07:00"
+      "updatedAt": "2026-10-08T09:02:07.1078927+07:00"
+    },
+    {
+      "code": "52",
+      "name": "Chú Dũng",
+      "phone": "",
+      "address": "42 - Lê thạch ( Hội trường đảng )",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Bếp",
+      "updatedAt": "2026-10-08T08:54:31.6049833+07:00"
+    },
+    {
+      "code": "53",
+      "name": "Đậm chà",
+      "phone": "",
+      "address": "Chợ mới",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Quầy bar, chắp vá",
+      "updatedAt": "2026-10-08T08:55:09.6973727+07:00"
+    },
+    {
+      "code": "54",
+      "name": "Anh minh",
+      "phone": "",
+      "address": "Nghĩa phúc",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Bếp - Vách ngăn",
+      "updatedAt": "2026-10-08T08:56:18.6974409+07:00"
+    },
+    {
+      "code": "55",
+      "name": "Anh định",
+      "phone": "",
+      "address": "Nghĩa",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Bếp, Vách",
+      "updatedAt": "2026-10-08T08:56:53.7772895+07:00"
+    },
+    {
+      "code": "56",
+      "name": "Anh công",
+      "phone": "",
+      "address": "Nghĩa phúc",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Vách cầu thang",
+      "updatedAt": "2026-10-08T08:57:33.2090309+07:00"
+    },
+    {
+      "code": "57",
+      "name": "Chị tú",
+      "phone": "",
+      "address": "Công viên",
+      "area": "TanKy",
+      "status": "SanXuat",
+      "note": "tủ đồ",
+      "updatedAt": "2026-10-08T08:59:42.8730885+07:00"
+    },
+    {
+      "code": "58",
+      "name": "Chị hợi nga",
+      "phone": "",
+      "address": "Nghĩa hoàn",
+      "area": "TanKy",
+      "status": "SanXuat",
+      "note": "Tủ, bàn",
+      "updatedAt": "2026-10-08T09:01:13.5289359+07:00"
+    },
+    {
+      "code": "59",
+      "name": "Chú minh",
+      "phone": "",
+      "address": "Khối 7",
+      "area": "TanKy",
+      "status": "SanXuat",
+      "note": "2 cái tủ đồ",
+      "updatedAt": "2026-10-08T09:01:38.460494+07:00"
     }
   ]
 }
