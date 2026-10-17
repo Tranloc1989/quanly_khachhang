@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-08T09:06:31.9302677+07:00",
+  "generatedAt": "2026-10-17T10:19:34.9530355+07:00",
   "stats": {
-    "total": 21,
-    "tanKy": 17,
-    "doLuong": 2,
-    "tongHop": 2,
-    "deleted": 38,
+    "total": 20,
+    "tanKy": 14,
+    "doLuong": 3,
+    "tongHop": 3,
+    "deleted": 42,
     "statuses": {
-      "hoanThanh": 0,
-      "lenPhuongAn": 8,
+      "hoanThanh": 1,
+      "lenPhuongAn": 10,
       "dangXay": 5,
-      "sanXuat": 8,
+      "sanXuat": 4,
       "huyDon": 0
     }
   },
@@ -126,24 +126,14 @@
       "updatedAt": "2026-08-29T17:04:15.3469479+07:00"
     },
     {
-      "code": "48",
-      "name": "Nhà công viên",
-      "phone": "",
-      "address": "17 - Lê thạch",
-      "area": "TanKy",
-      "status": "SanXuat",
-      "note": "Bếp, Tủ đồ",
-      "updatedAt": "2026-08-29T17:06:47.6447302+07:00"
-    },
-    {
       "code": "51",
       "name": "Lâm",
       "phone": "",
       "address": "Hoà sơn",
       "area": "DoLuong",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Vách tivi",
-      "updatedAt": "2026-10-08T09:02:07.1078927+07:00"
+      "updatedAt": "2026-10-17T10:17:29.9922769+07:00"
     },
     {
       "code": "52",
@@ -196,34 +186,34 @@
       "updatedAt": "2026-10-08T08:57:33.2090309+07:00"
     },
     {
-      "code": "57",
-      "name": "Chị tú",
+      "code": "60",
+      "name": "Chị quỳnh",
       "phone": "",
-      "address": "Công viên",
-      "area": "TanKy",
-      "status": "SanXuat",
-      "note": "tủ đồ",
-      "updatedAt": "2026-10-08T08:59:42.8730885+07:00"
+      "address": "Giang sơn",
+      "area": "DoLuong",
+      "status": "LenPhuongAn",
+      "note": "Bếp",
+      "updatedAt": "2026-10-17T10:17:45.5043438+07:00"
     },
     {
-      "code": "58",
-      "name": "Chị hợi nga",
+      "code": "61",
+      "name": "Anh tiến",
       "phone": "",
-      "address": "Nghĩa hoàn",
-      "area": "TanKy",
-      "status": "SanXuat",
-      "note": "Tủ, bàn",
-      "updatedAt": "2026-10-08T09:01:13.5289359+07:00"
+      "address": "Nghĩa thọ, nghĩa đàn",
+      "area": "TongHop",
+      "status": "LenPhuongAn",
+      "note": "Bếp",
+      "updatedAt": "2026-10-17T10:18:15.0694792+07:00"
     },
     {
-      "code": "59",
-      "name": "Chú minh",
+      "code": "62",
+      "name": "Chú dũng",
       "phone": "",
-      "address": "Khối 7",
+      "address": "Sau hội trường đảng",
       "area": "TanKy",
       "status": "SanXuat",
-      "note": "2 cái tủ đồ",
-      "updatedAt": "2026-10-08T09:01:38.460494+07:00"
+      "note": "Bếp",
+      "updatedAt": "2026-10-17T10:19:22.5387114+07:00"
     }
   ]
 }
