@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-31T10:23:43.3670184+07:00",
+  "generatedAt": "2026-10-31T10:37:44.0944829+07:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "tanKy": 18,
     "doLuong": 2,
-    "tongHop": 4,
-    "deleted": 3,
+    "tongHop": 3,
+    "deleted": 4,
     "statuses": {
       "hoanThanh": 0,
       "lenPhuongAn": 14,
       "dangXay": 6,
-      "sanXuat": 4,
+      "sanXuat": 3,
       "huyDon": 0
     }
   },
@@ -267,17 +267,6 @@
       "status": "SanXuat",
       "note": "Bếp + các phòng ngủ",
       "updatedAt": "2026-10-31T09:45:14.3368803+07:00"
-    },
-    {
-      "id": "e3acaae5-de97-4261-8b3d-5f3541cae759",
-      "code": "4",
-      "name": "Anh tiến",
-      "phone": "",
-      "address": "Nghĩa thọ, nghĩa đàn",
-      "area": "TongHop",
-      "status": "SanXuat",
-      "note": "Bếp",
-      "updatedAt": "2026-10-30T09:20:23.8177575+07:00"
     }
   ]
 }
