@@ -6,7 +6,7 @@ body { margin:0; background:var(--bg); color:var(--ink); font-family:"Segoe UI",
 .hero p { margin:0 0 5px; color:#395442; font-weight:700; }
 .hero h1 { margin:0; font-size:34px; letter-spacing:0; }
 .site-title { display:flex; align-items:center; gap:12px; }
-.site-logo { width:48px; height:48px; border-radius:10px; object-fit:contain; background:#27611f; padding:4px; }
+.site-logo { width:32px; height:32px; flex:0 0 32px; border-radius:7px; object-fit:contain; background:transparent; padding:0; }
 .hero span { display:block; margin-top:7px; color:#395442; }
 .top-actions { display:flex; align-items:center; gap:10px; }
 input { width:min(420px, 100%); border:1px solid var(--line); border-radius:8px; padding:12px 14px; font:inherit; }
@@ -16,7 +16,7 @@ input { width:min(420px, 100%); border:1px solid var(--line); border-radius:8px;
 .clock-icon::before { height:9px; transform:translate(-50%,-9px); }
 .clock-icon::after { height:8px; transform:translate(-50%,-1px) rotate(45deg); }
 .history-button.active,.history-button:hover { background:transparent; color:#111; }
-.tabs { display:grid; grid-template-columns:repeat(5,minmax(120px,1fr)); gap:12px; margin:0 0 52px; padding:8px; border-radius:14px; background:rgba(255,255,255,.52); }
+.tabs { display:grid; grid-template-columns:repeat(5,minmax(120px,1fr)); gap:12px; margin:0 0 52px; padding:8px; border-radius:14px; background:rgba(255,255,255,.52); position:relative; z-index:1; }
 button.tab { appearance:none; display:block; width:100%; min-height:46px; border:0; border-radius:10px; padding:12px 16px; background:transparent; color:#24452a; font:800 16px/1.2 "Segoe UI",Arial,sans-serif; text-align:center; cursor:pointer; }
 button.tab:hover,button.tab.active { background:var(--primary); color:white; }
 .view { display:none; }
