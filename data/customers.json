@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-31T13:52:07.7890899+07:00",
+  "generatedAt": "2026-11-02T09:50:34.9667432+07:00",
   "stats": {
-    "total": 23,
-    "tanKy": 18,
+    "total": 24,
+    "tanKy": 19,
     "doLuong": 2,
     "tongHop": 3,
     "deleted": 3,
     "statuses": {
       "hoanThanh": 0,
-      "lenPhuongAn": 14,
+      "lenPhuongAn": 15,
       "dangXay": 6,
       "sanXuat": 3,
       "huyDon": 0
@@ -212,6 +212,17 @@
       "status": "DangXay",
       "note": "Bếp",
       "updatedAt": "2026-10-31T10:00:33.8409519+07:00"
+    },
+    {
+      "id": "bf746c2f-246a-4513-aabe-db34225f1529",
+      "code": "19",
+      "name": "Anh chinh",
+      "phone": "0975313738",
+      "address": "Tân hương",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "tủ bếp, tủ quần áo ( HẸN KHÁCH )",
+      "updatedAt": "2026-11-02T09:50:21.4719004+07:00"
     },
     {
       "id": "86925065-833c-40d8-9fd0-f4a3d412ff1b",
