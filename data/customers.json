@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-02T09:51:39.4226574+07:00",
+  "generatedAt": "2026-11-06T14:23:51.7988259+07:00",
   "stats": {
-    "total": 24,
-    "tanKy": 19,
+    "total": 25,
+    "tanKy": 20,
     "doLuong": 2,
     "tongHop": 3,
     "deleted": 3,
     "statuses": {
       "hoanThanh": 0,
-      "lenPhuongAn": 15,
+      "lenPhuongAn": 16,
       "dangXay": 6,
       "sanXuat": 3,
       "huyDon": 0
@@ -223,6 +223,17 @@
       "status": "LenPhuongAn",
       "note": "tủ bếp, tủ quần áo ( HẸN KHÁCH )",
       "updatedAt": "2026-11-02T09:51:34.4470762+07:00"
+    },
+    {
+      "id": "45d03d3c-fb1b-49ef-a756-9294e4c94ab8",
+      "code": "20",
+      "name": "CHị hiền",
+      "phone": "091 6557567",
+      "address": "Số 6 - Hoàng nguyên cát",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Tủ đồ",
+      "updatedAt": "2026-11-06T14:23:43.5999447+07:00"
     },
     {
       "id": "86925065-833c-40d8-9fd0-f4a3d412ff1b",
