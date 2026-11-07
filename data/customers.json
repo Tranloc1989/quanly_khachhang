@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-06T14:23:51.7988259+07:00",
+  "generatedAt": "2026-11-07T08:46:41.7844411+07:00",
   "stats": {
-    "total": 25,
-    "tanKy": 20,
+    "total": 26,
+    "tanKy": 21,
     "doLuong": 2,
     "tongHop": 3,
     "deleted": 3,
     "statuses": {
       "hoanThanh": 0,
-      "lenPhuongAn": 16,
+      "lenPhuongAn": 17,
       "dangXay": 6,
       "sanXuat": 3,
       "huyDon": 0
@@ -234,6 +234,17 @@
       "status": "LenPhuongAn",
       "note": "Tủ đồ",
       "updatedAt": "2026-11-06T14:23:43.5999447+07:00"
+    },
+    {
+      "id": "bba1ffb7-45b5-4704-b5a2-bfa9628ea1dc",
+      "code": "21",
+      "name": "Chị Huyền",
+      "phone": "0985828848",
+      "address": "Xóm cừa",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "",
+      "updatedAt": "2026-11-07T08:45:56.5234075+07:00"
     },
     {
       "id": "86925065-833c-40d8-9fd0-f4a3d412ff1b",
