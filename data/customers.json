@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-07T08:46:41.7844411+07:00",
+  "generatedAt": "2026-11-17T09:34:27.6258152+07:00",
   "stats": {
-    "total": 26,
-    "tanKy": 21,
+    "total": 28,
+    "tanKy": 23,
     "doLuong": 2,
     "tongHop": 3,
     "deleted": 3,
     "statuses": {
-      "hoanThanh": 0,
-      "lenPhuongAn": 17,
-      "dangXay": 6,
-      "sanXuat": 3,
+      "hoanThanh": 4,
+      "lenPhuongAn": 13,
+      "dangXay": 4,
+      "sanXuat": 7,
       "huyDon": 0
     }
   },
@@ -22,9 +22,9 @@
       "phone": "",
       "address": "Cây xăng đường mòn",
       "area": "TanKy",
-      "status": "DangXay",
+      "status": "SanXuat",
       "note": "Bếp, Tủ sách",
-      "updatedAt": "2026-10-31T10:00:47.0463359+07:00"
+      "updatedAt": "2026-11-17T07:09:42.8115982+07:00"
     },
     {
       "id": "252553a6-5a12-4ed6-aa81-d29b24cd9755",
@@ -33,9 +33,9 @@
       "phone": "",
       "address": "Tân mỹ",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Bếp, P khách, P Ngủ, P thờ",
-      "updatedAt": "2026-10-31T10:00:51.1424623+07:00"
+      "updatedAt": "2026-11-17T07:09:39.8292259+07:00"
     },
     {
       "id": "b60bd2f8-a16e-4950-8635-1069dd862038",
@@ -44,9 +44,9 @@
       "phone": "",
       "address": "Chợ mới",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Quầy bar, chắp vá",
-      "updatedAt": "2026-10-31T10:01:29.7921005+07:00"
+      "updatedAt": "2026-11-17T07:09:33.7570994+07:00"
     },
     {
       "id": "4da124f0-8501-402e-ad27-364bf00b94fd",
@@ -66,9 +66,9 @@
       "phone": "091\u00A09484268",
       "address": "Gần quân hiếu",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "HoanThanh",
       "note": "Tủ bếp trên",
-      "updatedAt": "2026-10-31T09:58:31.6088483+07:00"
+      "updatedAt": "2026-11-17T07:09:54.6438927+07:00"
     },
     {
       "id": "b36684c8-8322-42ff-88e2-333b8f2882e5",
@@ -77,9 +77,9 @@
       "phone": "0337470558",
       "address": "Đồng hương, Nghĩa hàng",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "HoanThanh",
       "note": "vách ngăn",
-      "updatedAt": "2026-10-31T09:53:43.8464433+07:00"
+      "updatedAt": "2026-11-17T07:09:59.8921667+07:00"
     },
     {
       "id": "9fa9d4af-bb8f-405b-9b7f-3303254fdcaa",
@@ -122,8 +122,8 @@
       "address": "Tân an",
       "area": "TanKy",
       "status": "DangXay",
-      "note": "Full",
-      "updatedAt": "2026-10-31T09:59:36.8181894+07:00"
+      "note": "Full chưa đo",
+      "updatedAt": "2026-11-17T07:10:39.7016964+07:00"
     },
     {
       "id": "6a3812bc-5e31-44b3-a8e1-66bbc86c5ed9",
@@ -165,9 +165,9 @@
       "phone": "",
       "address": "Đường mòn",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "P ngủ, tủ, kệ ...",
-      "updatedAt": "2026-10-31T09:52:14.9239758+07:00"
+      "updatedAt": "2026-11-17T07:11:00.9730102+07:00"
     },
     {
       "id": "55719bb3-01bf-4a0b-8342-69ba9fac96f0",
@@ -177,8 +177,8 @@
       "address": "Đối diện quân hiếu",
       "area": "TanKy",
       "status": "DangXay",
-      "note": "Full",
-      "updatedAt": "2026-10-31T09:59:24.7223078+07:00"
+      "note": "Full Hẹn sang năm",
+      "updatedAt": "2026-11-17T07:11:20.912059+07:00"
     },
     {
       "id": "cdac118b-5512-45c9-b1c6-f518ba14f87e",
@@ -187,9 +187,9 @@
       "phone": "094 9135030",
       "address": "Đối diện nguyên trọng quán",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "HoanThanh",
       "note": "Bếp trên",
-      "updatedAt": "2026-10-31T09:57:33.8556386+07:00"
+      "updatedAt": "2026-11-17T07:11:29.603184+07:00"
     },
     {
       "id": "8d2a3c50-9c63-44b0-812f-2f9b6cdff5a3",
@@ -198,9 +198,9 @@
       "phone": "",
       "address": "Làng rào",
       "area": "TanKy",
-      "status": "SanXuat",
+      "status": "HoanThanh",
       "note": "Bếp, phòng ngủ x3",
-      "updatedAt": "2026-10-31T09:59:08.7030794+07:00"
+      "updatedAt": "2026-11-17T07:11:47.3316313+07:00"
     },
     {
       "id": "c4b0aeb5-5fef-4663-a2a0-3dd65a42b378",
@@ -209,9 +209,9 @@
       "phone": "",
       "address": "K7",
       "area": "TanKy",
-      "status": "DangXay",
+      "status": "LenPhuongAn",
       "note": "Bếp",
-      "updatedAt": "2026-10-31T10:00:33.8409519+07:00"
+      "updatedAt": "2026-11-17T07:11:51.1556939+07:00"
     },
     {
       "id": "bf746c2f-246a-4513-aabe-db34225f1529",
@@ -220,9 +220,9 @@
       "phone": "0975313738",
       "address": "cột số 6 tân hương",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "tủ bếp, tủ quần áo ( HẸN KHÁCH )",
-      "updatedAt": "2026-11-02T09:51:34.4470762+07:00"
+      "updatedAt": "2026-11-17T07:11:56.6437216+07:00"
     },
     {
       "id": "45d03d3c-fb1b-49ef-a756-9294e4c94ab8",
@@ -231,9 +231,9 @@
       "phone": "091 6557567",
       "address": "Số 6 - Hoàng nguyên cát",
       "area": "TanKy",
-      "status": "LenPhuongAn",
+      "status": "SanXuat",
       "note": "Tủ đồ",
-      "updatedAt": "2026-11-06T14:23:43.5999447+07:00"
+      "updatedAt": "2026-11-17T07:12:00.5704245+07:00"
     },
     {
       "id": "bba1ffb7-45b5-4704-b5a2-bfa9628ea1dc",
@@ -247,15 +247,37 @@
       "updatedAt": "2026-11-07T08:45:56.5234075+07:00"
     },
     {
+      "id": "7096572f-e3b2-4ac3-adcb-821fe1767527",
+      "code": "22",
+      "name": "Anh định",
+      "phone": "",
+      "address": "Nghĩa phúc",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Bếp, Vách",
+      "updatedAt": "2026-11-17T07:13:15.2364779+07:00"
+    },
+    {
+      "id": "645729fb-0c5d-49ec-8114-c0ce30cc3895",
+      "code": "23",
+      "name": "Anh minh hường",
+      "phone": "",
+      "address": "Nghĩa phúc",
+      "area": "TanKy",
+      "status": "LenPhuongAn",
+      "note": "Bếp, vách",
+      "updatedAt": "2026-11-17T07:19:29.0824187+07:00"
+    },
+    {
       "id": "86925065-833c-40d8-9fd0-f4a3d412ff1b",
       "code": "1",
       "name": "Anh huy Đá",
       "phone": "",
       "address": "Giang sơn",
       "area": "DoLuong",
-      "status": "SanXuat",
+      "status": "LenPhuongAn",
       "note": "Thêm phòng ngủ bố mẹ",
-      "updatedAt": "2026-10-30T09:20:01.5129075+07:00"
+      "updatedAt": "2026-11-17T07:12:30.1729462+07:00"
     },
     {
       "id": "b8475947-78a7-444f-9394-eb37d39b395b",
